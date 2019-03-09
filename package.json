@@ -13,9 +13,9 @@
   "author": "Yura Sadilenko",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/YuraSadilenko/EZEnglish/issues"
+    "url": "https://github.com/YuraSadilenko/Pet_Project/issues"
   },
-  "homepage": "https://github.com/YuraSadilenko/EZEnglish#readme",
+  "homepage": "https://github.com/YuraSadilenko/Pet_Project",
   "devDependencies": {
     "browser-sync": "^2.26.3",
     "gulp": "^3.9.1",
